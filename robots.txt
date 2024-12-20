@@ -2,5 +2,5 @@ User-Agent: *
 Disallow:
 
 
-Sitemap: http://playcovehobby.com/sitemap.xml
-Host: playcovehobby.com
+Sitemap: http://playcovehobby.contana.online/sitemap.xml
+Host: playcovehobby.contana.online
